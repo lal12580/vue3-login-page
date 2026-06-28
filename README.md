@@ -4,7 +4,7 @@
 
 
 
-技术：Vue3 TypeScript Element Plus   Git
+技术：Vue3 TypeScript Element Plus Git
 
 
 
