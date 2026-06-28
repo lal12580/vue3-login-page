@@ -12,8 +12,6 @@
 
 
 
-项目地址：https://github.com/lal12580/vue3-login-page
-
 
 
 亮点
